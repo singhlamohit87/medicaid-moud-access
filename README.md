@@ -130,5 +130,5 @@ jupyter
 
 ## Author
 
-Mohit Singhal, MPH  
+Mohit Singhal
 ORCID: [0009-0009-1518-4598](https://orcid.org/0009-0009-1518-4598)
